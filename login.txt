@@ -1,0 +1,1 @@
+{"ram": "123"}-{"ram": "123"}-{"& C:/Users/Dell/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Dell/OneDrive/Documents/rajivpy/programs/loop/indexing/reg_login.py": "& C:/Users/Dell/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Dell/OneDrive/Documents/rajivpy/programs/loop/indexing/reg_login.py"}-{"ram": "123"}-
